@@ -37,33 +37,7 @@ sudo systemctl status jenkins
 # Logging into Jenkins using GUI
 
 
-Lesson 1:
-Continuous Integration and Continuous Deployment
- 1. Introduction
- 2. Course Overview
- 3. Interview: Career Skills
- 4. What is CI/CD and a Pipeline?
- 5. AWS Setup
- 6. IAM and EC2 Setup
- 7. AWS Setup Quiz
- 8. Jenkins Intro
- 9. Connect to EC2 Instance using SSH
- 10. Installing Jenkins
- 11. Install Blue Ocean Plugin into Jenkins
- 12. Quiz: Jenkins Quiz
- 13. Review and Practice Exercises
-Mentor Help
-Ask a mentor on our Q&A platform
-Peer Chat
-Chat with peers and alumni
-Toggle Sidebar
-Installing Jenkins
-Jenkins
-Prerequisite to Install Jenkins
-You can install Jenkins using native system packages, Docker, or run on any machine having a Java Runtime Environment (JRE) available on it. We will install Jenkins on an AWS EC2 instance (a Virtual Machine) running the 64-bit (x86) Ubuntu OS. Later, we will log-in to that EC2 instance as an IAM user to configure the Jenkins Pipeline.
-
-
-Commands for Installing Jenkins on an EC2 instance
+ Jenkins on an EC2 instance
 (Note: You can scroll to the right to see all the content in the box below.) We assume that your EC2 instance is running the 64-bit (x86) Ubuntu OS.
 
 # Step 1 - Update existing packages
