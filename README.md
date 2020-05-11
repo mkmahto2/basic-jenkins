@@ -70,7 +70,8 @@ The sudo command allows us to run a command as root. The apt utility is for inst
 
 # Logging into Jenkins using GUI
 Go to AWS dashboard to copy the public IP address of your Ubuntu EC2 instance.
-Paste the public IP address into your browser, appended with ~~~ :8080 ~~~ port. For the first time, it will open up the Jenkins GUI as shown in the snapshot below:
+Paste the public IP address into your browser, appended with ~~~ 8080 ~~~
+ port. For the first time, it will open up the Jenkins GUI as shown in the snapshot below:
 
 Jenkins GUI saves the administrator password in a file on server
 
