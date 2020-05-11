@@ -86,5 +86,6 @@ Set up the user credentials. See the snapshot below:
 
 Next, it will show you a success message and take you to the Jenkins dashboard.
 
+screenshot-2020-03-14-at-6.04.20-pm.png
 # Enjoy
 Jenkins dashboards
